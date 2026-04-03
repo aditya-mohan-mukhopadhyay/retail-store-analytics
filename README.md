@@ -15,4 +15,4 @@ The store doesn’t have a clear idea about :-
 
 **Solution**
 
-They need proper reports and simpleinsights to understand their sales,customers, and product performancebetter.
+They need proper reports and simpleinsights to understand their sales,customers, and product performance better.
